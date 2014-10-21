@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="AnalogDisplay_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="Timer.behavior.AnalogDisplay_BehaviorDescriptor" />
+  <unitInfo fileName="Backlight_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="Timer.behavior.Backlight_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="40" endPosition="0" unitName="Timer.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="Button_BehaviorDescriptor.java" startLine="9" startPosition="0" endLine="22" endPosition="0" unitName="Timer.behavior.Button_BehaviorDescriptor" />
+  <unitInfo fileName="CircularShape_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="Timer.behavior.CircularShape_BehaviorDescriptor" />
+  <unitInfo fileName="ColorReference_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="Timer.behavior.ColorReference_BehaviorDescriptor" />
+  <unitInfo fileName="DigitalDisplay_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="Timer.behavior.DigitalDisplay_BehaviorDescriptor" />
+  <unitInfo fileName="Display_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="Timer.behavior.Display_BehaviorDescriptor" />
+  <unitInfo fileName="FunctionalElement_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="Timer.behavior.FunctionalElement_BehaviorDescriptor" />
+  <unitInfo fileName="Shape_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="Timer.behavior.Shape_BehaviorDescriptor" />
+  <unitInfo fileName="Speaker_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="Timer.behavior.Speaker_BehaviorDescriptor" />
+  <unitInfo fileName="SquareShape_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="Timer.behavior.SquareShape_BehaviorDescriptor" />
+  <unitInfo fileName="Timer_BehaviorDescriptor.java" startLine="9" startPosition="0" endLine="22" endPosition="0" unitName="Timer.behavior.Timer_BehaviorDescriptor" />
+</debugInfo>
+

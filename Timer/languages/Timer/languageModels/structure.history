@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="-1" />
+    </dependencies>
+    <rename id="x6j0.4430544101255453566" type="CONCEPT" from="Timer" to="StopWatch" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="0" />
+    </dependencies>
+    <rename id="x6j0.4430544101255453566" type="CONCEPT" from="StopWatch" to="Timer" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="1" />
+    </dependencies>
+    <rename id="x6j0.4430544101255453566" type="CONCEPT" from="Timer" to="SuperTimer" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="2" />
+    </dependencies>
+    <rename id="x6j0.1516796998154999224" type="PROPERTY" from="time" to="period" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="3" />
+    </dependencies>
+    <rename id="x6j0.1516796998155357266" type="CONCEPT" from="Dynamic" to="Speakers" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="4" />
+    </dependencies>
+    <rename id="x6j0.1516796998155357266" type="CONCEPT" from="Speakers" to="Speaker" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="5" />
+    </dependencies>
+    <rename id="x6j0.1516796998155380920" type="CONCEPT" from="BaseElement" to="StructuralElement" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="6" />
+    </dependencies>
+    <rename id="x6j0.1516796998155380920" type="CONCEPT" from="Device" to="FunctionalElement" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="7" />
+    </dependencies>
+    <rename id="x6j0.1516796998155397951" type="PROPERTY" from="numbers" to="numbersType" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="8" />
+    </dependencies>
+    <rename id="x6j0.1516796998155397951" type="PROPERTY" from="numbersType" to="numberType" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="9" />
+    </dependencies>
+    <rename id="x6j0.1516796998155397951" type="PROPERTY" from="numberType" to="numerals" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="10" />
+    </dependencies>
+    <rename id="x6j0.1516796998155424813" type="PROPERTY" from="source" to="engine" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="11" />
+    </dependencies>
+    <rename id="x6j0.1516796998155380915" type="CHILD" from="button" to="buttons" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="12" />
+    </dependencies>
+    <rename id="x6j0.1516796998154999097" type="PROPERTY" from="label" to="side" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="x6j0" modelUID="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" version="13" />
+    </dependencies>
+    <rename id="x6j0.1516796998154999049" type="CONCEPT" from="RoundShape" to="CircularShape" />
+  </StructureModification>
+</history>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="dybxp72ogfc1g8hv3jwjarg7qzd7gf4">
+  <common hash="8rjjhiwvdhx5495bg5f3t99k87gjmkz" />
+  <source id="1516796998156069185" name="OldTimer" hash="ah5zsdvgx3h1pij4kyk602xaq55wnxe">
+    <file name="OldTimer" />
+  </source>
+  <source id="1516796998156123846" name="ModernTimer" hash="d9upadoq58idlejm8dggq165sl8kvtt">
+    <file name="ModernTimer" />
+  </source>
+</dependencies>
+

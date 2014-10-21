@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="926a64lw65t5ynvsxsn7a1e7i8x45fh">
+  <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cellLayout(MPS.Editor/jetbrains.mps.nodeEditor.cellLayout@java_stub)" />
+  <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+  <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.openapi.editor.descriptor(MPS.Editor/jetbrains.mps.openapi.editor.descriptor@java_stub)" />
+  <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" hash="5sdbpqxziyuazpb9j1p4zdk6bnvbn49" />
+  <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" hash="86959aj3hruza3jrem733b02sp73xb0" />
+  <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" hash="303xz1b2lyseld0axia86q3lpvucmq6" />
+  <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" hash="-8z73tx2nml9xagbxlfmq60ehji8q3f5" />
+  <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" hash="3as1n9kz8p94elxspwdm7lxmr74eafr" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" hash="b4ewbuz42qcbg1awca5bacgi0vopxqt" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" hash="a8elw7fctzg6sg8fe36u9gzu42axhdb" />
+  <common hash="6mr93g7nc901lbhebuicen3knv8nrpn" dependsOnNodes="true">
+    <dep root="1516796998155549002" />
+    <dep root="1516796998155575576" />
+    <dep root="1516796998155584125" />
+    <dep root="1516796998155584210" />
+    <dep root="1516796998155584392" />
+    <dep root="1516796998155584473" />
+    <dep root="1516796998155584531" />
+    <dep root="1516796998155584591" />
+    <dep root="1516796998155585025" />
+    <dep root="1516796998155873366" />
+    <dep root="1516796998155873427" />
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.openapi.editor.descriptor(MPS.Editor/jetbrains.mps.openapi.editor.descriptor@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <file name="EditorAspectDescriptorImpl.java" />
+  </common>
+  <source id="1516796998155549002" name="ColorReference_Editor" hash="-d83clay6mc6b31h4z49soutuvcfz1ax">
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <file name="ColorReference_Editor.java" />
+  </source>
+  <source id="1516796998155575576" name="Speaker_Editor" hash="-64plddl7ge7lcnckuanovrlnlvdkbvn">
+    <dep root="1516796998155584125" />
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <file name="Speaker_Editor.java" />
+  </source>
+  <source id="1516796998155584125" name="FunctionalElement" hash="dywljqsffkvvaam9kmm6a5s0p8iteqb">
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <file name="FunctionalElement.java" />
+  </source>
+  <source id="1516796998155584210" name="Button_Editor" hash="cgv8s1ydopxqqxi694hnqcsxvafc2f5">
+    <dep root="1516796998155584125" />
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <file name="Button_Editor.java" />
+  </source>
+  <source id="1516796998155584392" name="Backlight_Editor" hash="-7mrl541f4df23rih2tfj60qla67ukkf">
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <file name="Backlight_Editor.java" />
+  </source>
+  <source id="1516796998155584473" name="AnalogDisplay_Editor" hash="dhzyzh9krdup4hvgyf5d5og60130pl">
+    <dep root="1516796998155584531" />
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <file name="AnalogDisplay_Editor.java" />
+  </source>
+  <source id="1516796998155584531" name="Display" hash="4wgxysq83xspi6mixu9amf3t21v5308">
+    <dep root="1516796998155584125" />
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <file name="Display.java" />
+  </source>
+  <source id="1516796998155584591" name="DigitalDisplay_Editor" hash="-ek2b12sv4tlx0b5gvxrjrk4s1uqw6wn">
+    <dep root="1516796998155584531" />
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <file name="DigitalDisplay_Editor.java" />
+  </source>
+  <source id="1516796998155585025" name="Timer_Editor" hash="-8alapp6szk3drf5u3gidka7qx1ft0co">
+    <dep root="1516796998155584125" />
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cellLayout(MPS.Editor/jetbrains.mps.nodeEditor.cellLayout@java_stub)" />
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <file name="Timer_Editor.java" />
+  </source>
+  <source id="1516796998155873366" name="CircularShape_Editor" hash="3xzog0q7k692wy017on9uvqtsbexppm">
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <file name="CircularShape_Editor.java" />
+  </source>
+  <source id="1516796998155873427" name="SquareShape_Editor" hash="-4i9pzw1w6dwz095nznd4nb529byx5gu">
+    <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:201d5676-0fcb-458a-8ba5-4a4c73f8b3fc(Timer.structure)" />
+    <file name="SquareShape_Editor.java" />
+  </source>
+</dependencies>
+

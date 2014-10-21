@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="Timer.behavior.AnalogDisplay_BehaviorDescriptor" file="AnalogDisplay_BehaviorDescriptor.java">
+    <classNode dependClassName="Timer.behavior.Display_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.Backlight_BehaviorDescriptor" file="Backlight_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="Timer.behavior.AnalogDisplay_BehaviorDescriptor" />
+    <classNode dependClassName="Timer.behavior.Backlight_BehaviorDescriptor" />
+    <classNode dependClassName="Timer.behavior.Button_BehaviorDescriptor" />
+    <classNode dependClassName="Timer.behavior.CircularShape_BehaviorDescriptor" />
+    <classNode dependClassName="Timer.behavior.ColorReference_BehaviorDescriptor" />
+    <classNode dependClassName="Timer.behavior.DigitalDisplay_BehaviorDescriptor" />
+    <classNode dependClassName="Timer.behavior.Speaker_BehaviorDescriptor" />
+    <classNode dependClassName="Timer.behavior.SquareShape_BehaviorDescriptor" />
+    <classNode dependClassName="Timer.behavior.Timer_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.Button_BehaviorDescriptor" file="Button_BehaviorDescriptor.java">
+    <classNode dependClassName="Timer.behavior.FunctionalElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.CircularShape_BehaviorDescriptor" file="CircularShape_BehaviorDescriptor.java">
+    <classNode dependClassName="Timer.behavior.Shape_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.ColorReference_BehaviorDescriptor" file="ColorReference_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.DigitalDisplay_BehaviorDescriptor" file="DigitalDisplay_BehaviorDescriptor.java">
+    <classNode dependClassName="Timer.behavior.Display_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.Display_BehaviorDescriptor" file="Display_BehaviorDescriptor.java">
+    <classNode dependClassName="Timer.behavior.FunctionalElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.FunctionalElement_BehaviorDescriptor" file="FunctionalElement_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.Shape_BehaviorDescriptor" file="Shape_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.Speaker_BehaviorDescriptor" file="Speaker_BehaviorDescriptor.java">
+    <classNode dependClassName="Timer.behavior.FunctionalElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.SquareShape_BehaviorDescriptor" file="SquareShape_BehaviorDescriptor.java">
+    <classNode dependClassName="Timer.behavior.Shape_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Timer.behavior.Timer_BehaviorDescriptor" file="Timer_BehaviorDescriptor.java">
+    <classNode dependClassName="Timer.behavior.FunctionalElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+</dependenciesRoot>
+
